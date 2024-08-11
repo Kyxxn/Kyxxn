@@ -1,4 +1,4 @@
-## Park Hyojoon 👨🏻‍💻
+## Hyojoon Park 👨🏻‍💻
 ![Swift](https://camo.githubusercontent.com/9fc48aa1c6a8581fd30a4dc4ebd0a92658edd713d14a602cc2263193bd7751f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53776966742d736e6f773f6c6f676f3d7377696674266c6f676f436f6c6f723d463035313338)
 ![Xcode](https://camo.githubusercontent.com/9c520d8d859bc8d36c8d1d2d884ce2be19d64ef0a00dc5b86e489377c115673b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f58636f64652d736e6f773f6c6f676f3d78636f6465)
 
@@ -7,14 +7,13 @@
 - 국립금오공과대학교 컴퓨터공학과 `2020.03 ~ ing`
 - 네이버 부스트캠프 웹・모바일 9기 `iOS`
 
-### 🏃🏻 Activity4
+### 🏃🏻 Activity
 - **국립금오공과대학교 개발 동아리**: CHIP
     - `동아리 회장: 2023.01 ~ 2024.08`
     - [[회고] 110명의 부원을 모을 수 있었던 이유](https://blog.naver.com/kyxxn_/223508403143)
 - **대학교 IT 세미나 행사**: 야밤의 금오톡
     - `기획장: 2024.03 ~ ing`
     - [[회고] IT 세미나, 스터디, 기술 블로그를 기획해보며](https://blog.naver.com/kyxxn_)
-    - [활동내용 보러가기](https://ce.kumoh.ac.kr/ce/sub0503.do)
 - **네이버 부스트캠프 웹・모바일 9기** `iOS`
     - [[회고] 챌린지에서의 몰입과 성장 경험](https://blog.naver.com/kyxxn_/223542686446)
 - **2023년 메타버스 수도 경북 해커톤**
@@ -40,3 +39,5 @@
 <br>
 
 [![Kyxxn GitHub stats](https://github-readme-stats.vercel.app/api?username=kyxxn)](https://github.com/kyxxn/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyxxn%2Fhit-counter&count_bg=%23868686&title_bg=%23000000&icon=&icon_color=%23F7F7F7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
