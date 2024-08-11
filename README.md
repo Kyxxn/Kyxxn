@@ -1,7 +1,3 @@
-## Hyojoon Park 👨🏻‍💻
-<img alt="Swift" width="55" height="21" style="border-radius: 5px;" src="https://img.shields.io/badge/Swift-FFFFFF?style=flat&logo=swift&logoColor=F05137"> <img alt="Swift" width="60" height="21" style="border-radius: 5px;" src="https://img.shields.io/badge/Xcode-FFFFFF?style=flat&logo=Xcode&logoColor=258BEE">
-
-
 ### 👨🏻‍🎓 Education
 - 국립금오공과대학교 컴퓨터공학과 `2020.03 ~ ing`
 - 네이버 부스트캠프 웹・모바일 9기 `iOS`
