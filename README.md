@@ -13,6 +13,8 @@
 -  <img width="15" src="https://github.com/user-attachments/assets/2d9c08a0-2fb1-4b4e-b4ea-be8cf54f213f" alt="야금톡 로고"> **대학교 IT 세미나 행사**: 야밤의 금오톡
     - `기획장: 2024.03 ~ ing`
     - [[회고] IT 세미나, 스터디, 기술 블로그를 기획해보며](https://blog.naver.com/kyxxn_)
+
+      
 - <img width="15" src="https://github.com/user-attachments/assets/ff54df1b-9c95-49de-8d65-30315483a6ae" alt="부스트캠프 로고"> **네이버 부스트캠프 웹・모바일 9기** `iOS`
     - [[회고] 챌린지에서의 몰입과 성장 경험](https://blog.naver.com/kyxxn_/223542686446)
 - 🏆 **2023년 메타버스 수도 경북 해커톤**
