@@ -1,13 +1,3 @@
-curl -o certifi-latest.tar.gz https://files.pythonhosted.org/packages/pypi/c/certifi/certifi-latest.tar.gz
-
-pip install certifi --trusted-host pypi.org --trusted-host files.pythonhosted.org
-
-tar -xzvf certifi-latest.tar.gz
-
-cd certifi-*
-
-python setup.py install
-
 ### 👨🏻‍🎓 Education
 - 국립금오공과대학교 컴퓨터공학과 `2020.03 ~ ing`
 - 네이버 부스트캠프 웹・모바일 9기 `iOS`
