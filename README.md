@@ -19,7 +19,7 @@
     - `학부 레지던트: 2024.03 ~ 2024.08`
 
 ### ⭐️ Project
-- <img width="25" src="https://github.com/user-attachments/assets/ce478471-d90c-4b46-afc0-0e345123da9d" alt="토덕 로고"> `to.duck`: 성인 ADHD 환자들을 위한 토닥임
+- `to.duck`: 성인 ADHD 환자들을 위한 토닥임
     - **iOS 개발**: `UIKit` `Tuist 4.18` `Xcode Cloud`
     - [Github](https://github.com/toduck-App), [Figma](https://www.figma.com/design/u270kM7D2YRtsbz6rsEYWk/To.duck?node-id=0-1&t=1o5klrXVhp6MNde5-0), [Notion](https://kyxxn.notion.site/to-duck-dfa389d8e7c94be2b35695f79d40e5a5?pvs=4), [Jira](https://gywns626.atlassian.net/jira/software/projects/TOD/boards/3)
 
