@@ -1,7 +1,9 @@
 curl -o certifi-latest.tar.gz https://files.pythonhosted.org/packages/pypi/c/certifi/certifi-latest.tar.gz
 
 tar -xzvf certifi-latest.tar.gz
+
 cd certifi-*
+
 python setup.py install
 
 ### 👨🏻‍🎓 Education
