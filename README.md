@@ -1,19 +1,19 @@
 ## Hyojoon Park 👨🏻‍💻
 <img alt="Swift" width="55" height="21" style="border-radius: 5px;" src="https://img.shields.io/badge/Swift-FFFFFF?style=flat&logo=swift&logoColor=F05137"> <img alt="Swift" width="60" height="21" style="border-radius: 5px;" src="https://img.shields.io/badge/Xcode-FFFFFF?style=flat&logo=Xcode&logoColor=258BEE">
 
+
 ### 👨🏻‍🎓 Education
 - 국립금오공과대학교 컴퓨터공학과 `2020.03 ~ ing`
 - 네이버 부스트캠프 웹・모바일 9기 `iOS`
 
-
 ### 🏃🏻 Activity
-- <img width="13" src="https://gist.github.com/user-attachments/assets/3279811b-ea5f-41db-bc01-c405f8904765" alt="야금톡 로고"> **국립금오공과대학교 개발 동아리**: CHIP
+- <img width="15" src="https://github.com/user-attachments/assets/0f86978a-9fc0-4048-bf6b-ad79478ff7d4" alt="야금톡 로고"> **국립금오공과대학교 개발 동아리**: CHIP
     - `동아리 회장: 2023.01 ~ 2024.08`
     - [[회고] 110명의 부원을 모을 수 있었던 이유](https://blog.naver.com/kyxxn_/223508403143)
--  <img width="13" src="https://github.com/user-attachments/assets/63aa3c80-2b14-4bb2-95b6-179a4918db8a" alt="야금톡 로고"> **대학교 IT 세미나 행사**: 야밤의 금오톡
+-  <img width="15" src="https://github.com/user-attachments/assets/2d9c08a0-2fb1-4b4e-b4ea-be8cf54f213f" alt="야금톡 로고"> **대학교 IT 세미나 행사**: 야밤의 금오톡
     - `기획장: 2024.03 ~ ing`
     - [[회고] IT 세미나, 스터디, 기술 블로그를 기획해보며](https://blog.naver.com/kyxxn_)
-- <img width="13" src="https://github.com/user-attachments/assets/1e964f71-0b3c-46e9-a1b0-c8dabced98d0" alt="부스트캠프 로고"> **네이버 부스트캠프 웹・모바일 9기** `iOS`
+- <img width="15" src="https://github.com/user-attachments/assets/ff54df1b-9c95-49de-8d65-30315483a6ae" alt="부스트캠프 로고"> **네이버 부스트캠프 웹・모바일 9기** `iOS`
     - [[회고] 챌린지에서의 몰입과 성장 경험](https://blog.naver.com/kyxxn_/223542686446)
 - 🏆 **2023년 메타버스 수도 경북 해커톤**
     - Web Front-End 개발
@@ -23,7 +23,7 @@
     - `학부 레지던트: 2024.03 ~ 2024.08`
 
 ### ⭐️ Project
-- `to.duck`: 성인 ADHD 환자들을 위한 토닥임
+- <img width="25" src="https://github.com/user-attachments/assets/ce478471-d90c-4b46-afc0-0e345123da9d" alt="토덕 로고"> `to.duck`: 성인 ADHD 환자들을 위한 토닥임
     - **iOS 개발**: `UIKit` `Tuist 4.18` `Xcode Cloud`
     - [Github](https://github.com/toduck-App), [Figma](https://www.figma.com/design/u270kM7D2YRtsbz6rsEYWk/To.duck?node-id=0-1&t=1o5klrXVhp6MNde5-0), [Notion](https://kyxxn.notion.site/to-duck-dfa389d8e7c94be2b35695f79d40e5a5?pvs=4), [Jira](https://gywns626.atlassian.net/jira/software/projects/TOD/boards/3)
 
@@ -32,6 +32,7 @@
 
 <img alt="Jira" width="60" height="25" src="https://img.shields.io/badge/jira-147EFB?style=for-the-badge&logo=Jira&logoColor=white"> <img alt="Slack" width="70" height="25" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img alt="Git" width="55" height="25" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img alt="Notion" width="75" height="25" src="https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=flat-square&logo=notion&logoColor=black">
 
+<br>
 <br>
 
 [![Kyxxn GitHub stats](https://github-readme-stats.vercel.app/api?username=kyxxn)](https://github.com/kyxxn/github-readme-stats)
