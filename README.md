@@ -5,7 +5,7 @@
 ### 🏃🏻 Activity
 - <img width="15" src="https://github.com/user-attachments/assets/0f86978a-9fc0-4048-bf6b-ad79478ff7d4" alt="야금톡 로고"> **국립금오공과대학교 개발 동아리**: CHIP
     - `동아리 회장: 2023.01 ~ 2024.08`
-    - [[회고] 110명의 부원을 모을 수 있었던 이유](https://blog.naver.com/kyxxn_/223508403143)
+    - [[회고] 신설 동아리가 110명의 부원을 모을 수 있었던 이유](https://blog.naver.com/kyxxn_/223508403143)
 -  <img width="15" src="https://github.com/user-attachments/assets/2d9c08a0-2fb1-4b4e-b4ea-be8cf54f213f" alt="야금톡 로고"> **대학교 IT 세미나 행사**: 야밤의 금오톡
     - `기획장: 2024.03 ~ ing`
     - [[회고] IT 세미나, 스터디, 기술 블로그를 기획해보며](https://blog.naver.com/kyxxn_)      
@@ -13,8 +13,7 @@
     - [[회고] 챌린지에서의 몰입과 성장 경험](https://blog.naver.com/kyxxn_/223542686446)
 - 🏆 **2023년 메타버스 수도 경북 해커톤**
     - Web Front-End 개발
-    - [[회고] 첫 해커톤 출전 후 수상까지](https://blog.naver.com/kyxxn_/223302995857)
-    - [[2위] 입상 증명서](https://ibb.co/sWNmTpR)
+    - [[회고] 해커톤 출전 후 수상까지](https://blog.naver.com/kyxxn_/223302995857)
 - 🥼 **지능형소프트웨어 연구실**
     - `학부 레지던트: 2024.03 ~ 2024.08`
 
