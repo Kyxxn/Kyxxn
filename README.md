@@ -15,7 +15,7 @@
     - Web Front-End 개발
     - [[회고] 해커톤 출전 후 수상까지](https://blog.naver.com/kyxxn_/223302995857)
 - 🥼 **지능형소프트웨어 연구실**
-    - `학부 레지던트: 2024.03 ~ 2024.08`
+    - `최적화 연구: 2023.04 ~ ing`
 
 ### ⭐️ Project
 - <img width="25" src="https://github.com/user-attachments/assets/ce478471-d90c-4b46-afc0-0e345123da9d" alt="토덕 로고"> `to.duck`: 성인 ADHD 환자들을 위한 토닥임
