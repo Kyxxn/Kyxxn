@@ -1,6 +1,6 @@
 ### 👨🏻‍🎓 Education
 - 국립금오공과대학교 컴퓨터공학과 `2020.03 ~ ing`
-- 부스트캠프 웹・모바일 9기 `iOS`
+- 네이버 커넥트재단 부스트캠프 웹・모바일 9기 `iOS`
 
 ### 🏃🏻 Activity
 - <img width="15" src="https://github.com/user-attachments/assets/0f86978a-9fc0-4048-bf6b-ad79478ff7d4" alt="야금톡 로고"> **국립금오공과대학교 개발 동아리**: CHIP
@@ -9,7 +9,7 @@
 -  <img width="15" src="https://github.com/user-attachments/assets/2d9c08a0-2fb1-4b4e-b4ea-be8cf54f213f" alt="야금톡 로고"> **대학교 IT 세미나 행사**: 야밤의 금오톡
     - `기획장: 2024.03 ~ ing`
     - [[회고] IT학과 575명을 대상으로 개발자 문화 형성하기](https://blog.naver.com/kyxxn_)      
-- <img width="15" src="https://github.com/user-attachments/assets/ff54df1b-9c95-49de-8d65-30315483a6ae" alt="부스트캠프 로고"> **부스트캠프 웹・모바일 9기** `iOS`
+- <img width="15" src="https://github.com/user-attachments/assets/ff54df1b-9c95-49de-8d65-30315483a6ae" alt="부스트캠프 로고"> **네이버 커넥트재단 부스트캠프 웹・모바일 9기** `iOS`
     - [[회고] 챌린지에서의 몰입과 성장 경험](https://blog.naver.com/kyxxn_/223542686446)
 - 🏆 **2023년 메타버스 수도 경북 해커톤**
     - Web Front-End 개발
