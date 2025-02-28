@@ -21,6 +21,7 @@
 ### Blog Posts
 - [[회고] 네이버 부스트캠프 9기 iOS 과정을 마치며](https://kyxxn.tistory.com/143)
 - [[Xcode] 나는 Global App을 만들 테야 - Localization 2편](https://kyxxn.tistory.com/153)
+- [[UIKit] UITableViewCell에서 CornerRadius 개별 설정 시 초기 레이아웃 문제를 비동기 재귀로 해결하기](https://kyxxn.tistory.com/166)
 - [[Swift Concurrency 10편] Actor는 한글 키보드로 'ㅁㅊ색' 이란 걸 아시나요?](https://kyxxn.tistory.com/163)
 
 #### Contact
