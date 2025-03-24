@@ -15,7 +15,7 @@
 - 네이버 커넥트재단 부스트캠프 웹・모바일 9기 **iOS**
 
 ### Project
-- <img width="25" src="https://github.com/user-attachments/assets/ce478471-d90c-4b46-afc0-0e345123da9d" alt="토덕 로고"> **to.duck**: 성인 ADHD 환자들을 위한 토닥임 [GitHub](https://github.com/toduck-App/iOS-to.duck)
+- <img width="24" src="https://github.com/user-attachments/assets/ce9fc3f3-35b1-4068-85b6-2a9c1f074f9c"> **to.duck**: 성인 ADHD 환자들을 위한 토닥임 [GitHub](https://github.com/toduck-App/iOS-to.duck)
 - <img width="25" src="https://github.com/user-attachments/assets/87e33e19-e4a6-43ce-86e9-4cb6ea343c4a" alt="기록소 로고"> **기록소**: 소중한 추억을 책으로 기록하는 공간 [GitHub](https://github.com/boostcampwm-2024/iOS10-MemorialHouse) | [TEAM Notion](https://kyxxn.notion.site/memorialhouse?pvs=4) | [App Store](https://apps.apple.com/app/%EA%B8%B0%EB%A1%9D%EC%86%8C/id6739330837)
 
 ### Blog Posts
