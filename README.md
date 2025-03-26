@@ -1,5 +1,4 @@
 <div>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyxxn%2Fhit-counter&count_bg=%23868686&title_bg=%23000000&icon=&icon_color=%23F7F7F7&title=hits&edge_flat=false" align="right" />
   <a href="https://kyxxn.tistory.com/">
     <img
       src="http://img.shields.io/badge/-Tech%20Blog-F05138?style=flat&logo=tistory&link=https://kyxxn.tistory.com/"
