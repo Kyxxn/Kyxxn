@@ -16,7 +16,7 @@
 ### Project
 - <img width="24" src="https://github.com/user-attachments/assets/ce9fc3f3-35b1-4068-85b6-2a9c1f074f9c"> **to.duck**: 성인 ADHD 환자들을 위한 토닥임 [GitHub](https://github.com/toduck-App/iOS-to.duck)
 - <img width="25" src="https://github.com/user-attachments/assets/87e33e19-e4a6-43ce-86e9-4cb6ea343c4a" alt="기록소 로고"> **기록소**: 소중한 추억을 책으로 기록하는 공간 [GitHub](https://github.com/boostcampwm-2024/iOS10-MemorialHouse) | [TEAM Notion](https://kyxxn.notion.site/memorialhouse?pvs=4) | [App Store](https://apps.apple.com/app/%EA%B8%B0%EB%A1%9D%EC%86%8C/id6739330837)
-- <img width="24" src="https://github.com/user-attachments/assets/efe98559-5b80-4266-babb-a91a6bc582d3"> **야밤의금오톡**: 국립금오공과대학교 IT 세미나 [야밤의금오톡 기술 블로그](https://kumoh-talk.com/)
+- <img width="24" src="https://github.com/user-attachments/assets/efe98559-5b80-4266-babb-a91a6bc582d3"> **야밤의금오톡**: 국립금오공과대학교 IT 세미나 [야밤의금오톡 기술 블로그](https://kumoh-talk.com/) | [YouTube](https://www.youtube.com/@midnight_kumoh_talk)
 
 
 ### Blog Posts
