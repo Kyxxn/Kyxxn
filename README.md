@@ -4,6 +4,11 @@
       src="http://img.shields.io/badge/-Tech%20Blog-F05138?style=flat&logo=tistory&link=https://kyxxn.tistory.com/"
       style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
   </a>
+  <a href="https://blog.naver.com/kyxxn_">
+    <img
+      src="http://img.shields.io/badge/-Daily%20Blog-03C75A?style=flat&logo=naver&logoSize=5&logoColor=FFFFFF&link=https://blog.naver.com/kyxxn_"
+      style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
+  </a>
 </div>
 
 ##
