@@ -29,5 +29,6 @@
 - [[Swift Concurrency] Actor는 한글 키보드로 'ㅁㅊ색' 이란 걸 아시나요?](https://kyxxn.tistory.com/163)
 
 #### Contact
-📬 <gywns626@naver.com>
+- 📬 <gywns626@naver.com>
+- 💬 [LinkedIn](https://www.linkedin.com/in/%ED%9A%A8%EC%A4%80-%EB%B0%95-935a652a3/)
 
